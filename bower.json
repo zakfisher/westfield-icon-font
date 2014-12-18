@@ -1,0 +1,16 @@
+{
+  "name": "westfield-icon-font",
+  "version": "0.0.1",
+  "authors": [
+    "Zak Fisher <zak.fisher@gmail.com>"
+  ],
+  "description": "Westfield Icon Font",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
